@@ -1,0 +1,10 @@
+Requiremtnts :-
+
+1. Python 3
+2. language-check(pip install --upgrade language-check)
+
+Steps to execute :-
+
+1. Change the file name to name.java or name.cpp or name.py or name.rb and fileType to Java or C++ or Python or Ruby.
+2. Run the code.
+3. Output is stored in Comments.csv file.
